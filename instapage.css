@@ -1,0 +1,220 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.sidebar{
+    margin-left: 0;
+    border-right: solid 1px black;
+    width: 250px;
+    height: 100%;
+    
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    
+}
+.sidebar1{
+    width: 250px; 
+    
+}
+.sidebar2{
+    height: 600px;
+    width: 200px;
+    margin-left: 30px;
+    list-style-type: none;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.side{
+    display: flex;
+    
+}
+h1{
+    
+    font-family: cambria;
+    margin: 30px;
+    
+}
+.j{
+    height: 70px;
+    width: 120px;
+}
+
+img{
+    height: 25px;
+    width: 25px;
+}
+.a{
+    transform: rotate(45deg);
+}
+li{
+    display: flex;
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+p{
+    margin-left: 10px;
+}
+.cc8{
+    border-radius: 50%;
+    border: solid 1px black;
+}
+.c9{
+    margin-top: 100px;
+}
+.main{
+    height: 500vh;
+    width: 53%;
+    margin-left: 250px;
+}
+
+.main1{
+    height: 15vh; 
+    width: 90%;
+    margin-top: 20px;
+    margin-left: 130px;
+    display: flex;
+    
+}
+.m1{
+    height: 60px;
+    width: 65px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+.main2{
+    height: 60vh;
+    width: 58%;
+    margin-left: 230px;
+    margin-top: 10px;
+    
+}
+.m2{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin-right: 8px;
+}
+.m3{
+    display: flex;
+    align-items: center;
+    margin-left: 235px;
+}
+.submain2{
+    display: flex;
+    height: 6vh;
+    border: none;
+    width: 100%;
+}
+.submain3{
+    height: 80vh;
+    width: 95%;
+    background-image: url(../images/itachi2.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 5px;
+
+}
+.b{
+    transform: rotate(60deg);
+}
+.submain4{
+    margin-top: 5px;
+    height: 5vh;
+    width: 96%;
+}
+.d1{
+    margin-right: 10px;
+    height: 30px;
+    width: 30px;
+}
+.b1{
+    margin-left: 285px;
+    margin-right: 0;
+}
+.main3{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.e{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    
+}
+.submain5{
+    display: flex;
+    height: 7vh;
+    width: 400px;
+   align-items: center;
+   margin-bottom: 20px;
+}
+.e1{
+    font-size: 17px;
+    
+}
+.e2{
+    margin-left: 100px;
+}
+.submain6{
+    display: flex;
+    height: 5vh;
+    width: 400px;
+    margin-bottom: 10px;
+}
+.e3{
+    margin-left: 125px;
+}
+.submain7{
+    display: flex;
+    height: 7vh;
+    width: 300px;
+   align-items: center;
+   margin-bottom: 20px;
+   margin-top: 10px;
+}
+.e4{
+    margin-left: 70px;
+}
+.e5{
+    margin-left: 75px;
+}
+.e6{
+    margin-left: 93px;
+}
+.e7{
+    margin-left: 65px;
+}
+.f{
+    font-size: 17px;
+}
+.submain8{
+    width: 350px;
+    height: 8vh;
+
+}
+.g{
+    text-decoration: none;
+    font-size: 14px;
+}
+input[type="text"]{
+    width: 95%;
+    border: none;
+    outline: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.submain9{
+    height: 80vh;
+    width: 95%;
+    background-image: url(../images/sukuna.jpeg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 5px;
+}
+.i{
+    text-decoration: none;
+}
